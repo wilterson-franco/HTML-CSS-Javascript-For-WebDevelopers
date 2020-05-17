@@ -1,0 +1,13 @@
+#########################################################################
+# Web pages mockup tool
+
+https://balsamiq.com
+
+
+#########################################################################
+# Placeholder images for webpages
+
+https://placeholder.com/
+
+example:
+https://via.placeholder.com/150x50

@@ -1,0 +1,26 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 14px;
+    color: #fff;
+    background-color: #afc8fa;
+    font-family: 'Roboto', sans-serif;
+}
+  
+.navbar-brand h1 {
+    font-family: 'Anton', sans-serif;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 2px rgb(0, 0, 0);
+}
+
+li.nav-item {
+    border-bottom: 1px solid #88898a;
+}
+
+li.nav-item:nth-child(3) {
+    border-bottom: 0;
+}
