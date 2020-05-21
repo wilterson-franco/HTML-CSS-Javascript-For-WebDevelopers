@@ -1,13 +1,32 @@
 #########################################################################
 # Web pages mockup tool
-
+#
 https://balsamiq.com
 
 
 #########################################################################
 # Placeholder images for webpages
-
+#
 https://placeholder.com/
 
 example:
 https://via.placeholder.com/150x50
+
+
+#########################################################################
+# Animated Gifs for Ajax
+#
+http://www.ajaxload.info
+
+
+#########################################################################
+# Animated Gifs for Ajax
+#
+https://www.heroku.com/
+
+
+#########################################################################
+# CORS: Cross-origin resource sharing
+#
+Check wikipedia (allows the browser to accept http headers from domain names different from the sorce)
+
